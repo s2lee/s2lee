@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:40e0d0,50:ff8c00,100:ff0080&height=300&section=header&text=Let's%20Grow%20Together!&fontSize=60&fontColor=FFF&animation=fadeIn&fontAlignY=42)
 
-👋Hey! Nice to see you. I'm **Backend Developer**
+👋Hey! Nice to see you. I'm new **Backend Developer**.<br/>
+
+### :blue_heart: My favorite motto
+- If it is difficult, Divide it into small pieces and Conquer
+- Finish is better than Perfect
+- Grow steadily step by step
 
 ### :shaved_ice: Interest
 - Clean Code
