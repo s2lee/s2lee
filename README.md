@@ -2,7 +2,7 @@
 
 👋Hey! Nice to see you. I'm new **Backend Developer**.<br/>
 
-### :blue_heart: My favorite motto
+### :blue_heart: My motto
 - If it is difficult, Divide it into small pieces and Conquer
 - Finish is better than Perfect
 - Grow steadily step by step
