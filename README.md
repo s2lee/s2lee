@@ -9,7 +9,6 @@
 
 ### :shaved_ice: Interest
 - Clean Code
-- TDD
 - OOP
 - System Design
 
